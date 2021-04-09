@@ -18,4 +18,8 @@
 
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api? username = Dejong1706 & show_icons = true & theme = gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dejong1706&show_icons=true&theme=dracula)
+
+</div>
