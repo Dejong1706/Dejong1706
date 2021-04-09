@@ -11,7 +11,7 @@
 
 </div>
 
-<div align="center">
+<div align="right">
   
 # SNS
 <a href ="https://www.instagram.com/bgeun98/"><img alt="Instagram" src="https://img.shields.io/badge/<bgeun98>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
