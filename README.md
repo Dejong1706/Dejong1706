@@ -17,3 +17,5 @@
 <a href ="https://www.instagram.com/bgeun98/"><img alt="Instagram" src="https://img.shields.io/badge/<bgeun98>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 </div>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dejong1706)](https://github.com/anuraghazra/github-readme-stats)
