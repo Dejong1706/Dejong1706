@@ -1,4 +1,4 @@
-![my img]()
+![bk_bg]()
 
 ## **소개**
 - **이름** : 박병근 / Park Byeong Geun
