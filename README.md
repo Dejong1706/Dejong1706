@@ -1,4 +1,4 @@
-![bk_bg]()
+<img src = "./bk_bg.png">
 
 ## **소개**
 - **이름** : 박병근 / Park Byeong Geun
