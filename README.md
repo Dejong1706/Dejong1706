@@ -11,7 +11,10 @@
 - **닉네임** : **'Dejong'**
 - **이메일** : ppk1998@naver.com
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ppk0320)](https://solved.ac/ppk0320)
+<div style = "display: flex">
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ppk0320)](https://solved.ac/ppk0320)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
+</div>
 
 ## **👤 Project**
 - TAS(관리자용 예약 시스템 웹)
@@ -23,4 +26,4 @@
 - HCS 메가시티 실전문제연구단 연합 경진대회 장려상(HCS실전문제연구단장상)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
+
