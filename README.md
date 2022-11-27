@@ -1,5 +1,11 @@
 <img src = "./bk_bg.png">
 
+<a href="https://www.instagram.com/b_geuni/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-#E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/b_geuni/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 ## **소개**
 - **이름** : 박병근 / Park Byeong Geun
 - **닉네임** : **'Dejong'**
