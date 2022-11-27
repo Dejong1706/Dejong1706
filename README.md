@@ -2,7 +2,7 @@
 
 <a href="https://instagram.com/b_geuni">
     <img 
-        src="http://img.shields.io/badge/-Instagram-#f3e5f5?style=flat&logo=Instagram&link=https://instagram.com/b_geuni/"
+        src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://instagram.com/b_geuni/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
