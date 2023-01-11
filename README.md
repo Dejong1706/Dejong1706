@@ -24,7 +24,7 @@
 - HCS 메가시티 실전문제연구단 연합 경진대회 장려상(HCS실전문제연구단장상)
 
 ## **🕹️ Technology Stack**
-![](https://img.shields.io/badge/JavaScirpt-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white")
+![](https://img.shields.io/badge/JavaScirpt-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black")
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white")
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white")
 ![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white")
