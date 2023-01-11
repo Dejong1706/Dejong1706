@@ -24,13 +24,13 @@
 - HCS 메가시티 실전문제연구단 연합 경진대회 장려상(HCS실전문제연구단장상)
 
 ## **🕹️ Technology Stack**
-![](https://img.shields.io/badge/JavaScirpt-F7DF1E?style=for-the-badge&logo=OpenJDK&logoColor=white")
-![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=OpenJDK&logoColor=white")
-![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=OpenJDK&logoColor=white")
-![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=OpenJDK&logoColor=white")
-![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=OpenJDK&logoColor=white")
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=OpenJDK&logoColor=white")
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=OpenJDK&logoColor=white")
-![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=OpenJDK&logoColor=white")
+![](https://img.shields.io/badge/JavaScirpt-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white")
+![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white")
+![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white")
+![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white")
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white")
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white")
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white")
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white")
 ![](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white")
 
