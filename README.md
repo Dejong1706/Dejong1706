@@ -23,4 +23,4 @@
 - 현장연계 미래선도인재양성지원사업 2022학년도 실전문제연구팀 연구성과 경진대회 동상(한남대)
 - HCS 메가시티 실전문제연구단 연합 경진대회 장려상(HCS실전문제연구단장상)
 
-![](https://img.shields.io/badge/JavaScirpt-F7DF1E?style=flat&logo=OpenJDK&logoColor=black")
+![](https://img.shields.io/badge/JavaScirpt-F7DF1E?style=plastic&logo=OpenJDK&logoColor=white")
