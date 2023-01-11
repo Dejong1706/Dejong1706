@@ -24,3 +24,10 @@
 - HCS 메가시티 실전문제연구단 연합 경진대회 장려상(HCS실전문제연구단장상)
 
 ![](https://img.shields.io/badge/JavaScirpt-F7DF1E?style=for-the-badge&logo=OpenJDK&logoColor=white")
+![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=OpenJDK&logoColor=white")
+![](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=OpenJDK&logoColor=white")
+![](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=OpenJDK&logoColor=white")
+![](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=OpenJDK&logoColor=white")
+![](https://img.shields.io/badge/React.js-F7DF1E?style=for-the-badge&logo=OpenJDK&logoColor=white")
+![](https://img.shields.io/badge/Next.js-F7DF1E?style=for-the-badge&logo=OpenJDK&logoColor=white")
+![](https://img.shields.io/badge/React.js-F7DF1E?style=for-the-badge&logo=OpenJDK&logoColor=white")
