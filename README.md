@@ -11,7 +11,7 @@
 - **닉네임** : **'Dejong'**
 - **이메일** : ppk1998@naver.com
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ppk0320)](https://solved.ac/ppk0320)&nbsp&nbsp&nbsp&nbsp
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ppk0320)](https://solved.ac/ppk0320)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 ## **👤 Project**
