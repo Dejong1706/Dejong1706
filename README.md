@@ -19,9 +19,11 @@
 - HCS 연구과제(스마트 비콘을 이용한 출입문 관리 시스템)
 
 ## **📖 Careers**
+- 한남대학교 컴퓨터공학과 졸업(2023.02)
 - 2022 한남대학교 컴퓨터공학과 캡스톤 디자인 장려상(TAS)
 - 현장연계 미래선도인재양성지원사업 2022학년도 실전문제연구팀 연구성과 경진대회 동상(한남대)
 - HCS 메가시티 실전문제연구단 연합 경진대회 장려상(HCS실전문제연구단장상)
+- (주)아트와 프론트엔드 개발자 인턴(2022.12 ~ )
 
 ## **🕹️ Technology Stack**
 ![](https://img.shields.io/badge/JavaScirpt-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white")
