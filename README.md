@@ -46,3 +46,10 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 <img src="https://img.shields.io/badge/figma-#F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<div>
+    <img src="https://img.shields.io/badge/chakra-F7DF1E?style=for-the-badge&logo=chakra&logoColor=black"> 
+    <img src="https://img.shields.io/badge/tailwindcss-E34F26?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
+    <img src="https://img.shields.io/badge/react-1572B6?style=for-the-badge&logo=react&logoColor=white"> 
+    <img src="https://img.shields.io/badge/nextjs-3178C6?style=for-the-badge&logo=nextjs&logoColor=black"> 
+    <img src="https://img.shields.io/badge/graphql-3776AB?style=for-the-badge&logo=graphql&logoColor=white"> 
+</div>
