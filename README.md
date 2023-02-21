@@ -26,7 +26,8 @@
 - (주)아트와<br/>
     ▶ 기간:  2022.12 ~<br/>
     ▶ 소속 : 서비스팀 프론트엔드<br/>
-    ▶ 수행 프로젝트 : 회사 홈페이지개발
+    ▶ 수행한 프로젝트 : 회사 홈페이지 개발
+    ▶ 수행중 프로젝트 : 회사 자체 서비스 웹 개발(로그인 페이지, 자동조작 페이지, 수동조작 페이지)
 
 ## **🕹️ Technology Stack**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
