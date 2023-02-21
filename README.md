@@ -30,6 +30,7 @@
     ▶ 수행중 프로젝트 : 회사 자체 서비스 웹 개발(로그인 페이지, 자동조작 페이지, 수동조작 페이지)
 
 ## **🕹️ Technology Stack**
+<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,4 +44,4 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-<img src="https://img.shields.io/badge/figma-E34F26?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/figma-#F24E1E?style=for-the-badge&logo=figma&logoColor=white">
