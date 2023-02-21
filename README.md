@@ -40,16 +40,10 @@
 
 
 ## **📒 Library Stack**
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-<img src="https://img.shields.io/badge/figma-#F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <div>
     <img src="https://img.shields.io/badge/chakraui-319795?style=for-the-badge&logo=chakraui&logoColor=black"> 
-    <img src="https://img.shields.io/badge/tailwindcss-E34F26?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
-    <img src="https://img.shields.io/badge/react-1572B6?style=for-the-badge&logo=react&logoColor=white"> 
-    <img src="https://img.shields.io/badge/nextjs-3178C6?style=for-the-badge&logo=nextjs&logoColor=black"> 
-    <img src="https://img.shields.io/badge/graphql-3776AB?style=for-the-badge&logo=graphql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=black"> 
+    <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"> 
 </div>
