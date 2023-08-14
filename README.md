@@ -17,6 +17,7 @@
 ## **👤 Project**
 - TAS(관리자용 예약 시스템 웹)
 - HCS 연구과제(스마트 비콘을 이용한 출입문 관리 시스템)
+- 개인 블로그 코딩 : https://my-blog-opal-sigma.vercel.app/ 
 
 ## **📖 Careers**
 - 한남대학교 컴퓨터공학과 졸업(2023.02)
