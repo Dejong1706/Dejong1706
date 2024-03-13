@@ -37,18 +37,9 @@
 - 울산 달천고등학교 졸업(2017.02)
 - 한남대학교 공과대학 컴퓨터공학과 학사 졸업(2023.02)
 
-## ** Skill **
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+|** Skill **| ** Libary **|** Framework **|** Collaboration **|** IDE **|
+| :------: | :------: | :------: | :------: | :------: |
+| [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=tailwind,sass)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=github,figma,discord,notion)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)|
 
-## ** Libary **
-[![My Skills](https://skillicons.dev/icons?i=tailwind,sass)](https://skillicons.dev)
 
-## ** Framework **
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
-
-## ** Collaboration **
-[![My Skills](https://skillicons.dev/icons?i=github,figma,discord,notion)](https://skillicons.dev)
-
-## ** IDE **
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
