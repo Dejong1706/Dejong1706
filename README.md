@@ -19,12 +19,16 @@
 | [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=tailwind,sass)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=github,figma,discord,notion)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)|
 
 ## **👨‍💻 Project**
-- TAS(관리자용 예약 시스템 웹) 
-- HCS 연구과제(스마트 비콘을 이용한 출입문 관리 시스템)
-- 개인 블로그 코딩 : https://my-blog-opal-sigma.vercel.app/
-- CHAT GPT Clone 코딩 : https://chat-gpt-clone-green-eta.vercel.app/
-- PRAY2U(학과 동아리 웹 서비스)
+
+- 모의 서적 구매사이트(bookleum)
+- 다용도 계산기
 - 실시간 웹 채팅(socket.io를 이용한 실시간 웹 채팅 서비스)
+- PRAY2U(학과 동아리 웹 서비스)
+- CHAT GPT Clone 코딩 : https://chat-gpt-clone-green-eta.vercel.app/
+- 개인 블로그 코딩 : https://my-blog-opal-sigma.vercel.app/
+- HCS 연구과제(스마트 비콘을 이용한 출입문 관리 시스템)
+- TAS(관리자용 예약 시스템 웹) 
+
 
 ## **🏆 Awards**
 |    대회명   |   기관/단체명   |   일자   |   수상 내역   |
