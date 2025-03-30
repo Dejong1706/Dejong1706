@@ -1,3 +1,10 @@
+<svg viewBox="0 0 500 50" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="35" font-size="35" fill="black">
+    <animate attributeName="x" from="-500" to="500" dur="5s" repeatCount="indefinite"/>
+    안녕하세요!
+  </text>
+</svg>
+
 <img src = "./bk_bg.png">
 
 <a href="https://instagram.com/b_geuni">
